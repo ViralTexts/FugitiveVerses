@@ -4,8 +4,8 @@
 title:               Fugitive Verses
 tagline:             'Popular Reprinted Poetry from Nineteenth Century Newspapers'
 description:         'Fugitive Verses presents transcribed, lightly-encoded editions of poems widely reprinted in nineteenth-century newspapers.'
-url:                 'http://ryancordell.org'
-baseurl:             '/FugitiveVerses'
+url:                 'http://fugitiverses.viraltexts.org'
+baseurl:             ''
 
 # About/contact
 author:
