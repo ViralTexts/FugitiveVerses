@@ -4,6 +4,11 @@ layout: default
 
 <div class="poetry">
   <h1 class="text-title">{{ page.title }}</h1>
-  <p class="byline">{{ page.author }}</p>
+  <p class="byline">by {{ page.author }}</p>
+  <p>Source of witness transcribed: {{ page.source-newspaper}}</p>
+  <p>Date of witness transcribed: {{ page.source-date}}</p>
+  <p>Notes about this poem: "{{ page.title }}" was printed in at least {{page.known-newspaper-reprints}} newspapers during the nineteenth century. It can be found using ID {{page.cluster-number}} in <a href="https://www.google.com/fusiontables/DataSource?docid=1SuIkCKfxnMQrjHxvQOZ_XEsoe8i3R4naMLHNjeo4" target="_blank">this table of most widely-reprinted poems</a>.
+  <p>{{ page.notes }}</p>
+  <p align="center">&sect;</p> 
   {{ content }}
 </div>
