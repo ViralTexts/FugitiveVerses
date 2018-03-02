@@ -118,7 +118,8 @@ from <em>The Grand River Times</em> (Grand Haven, Michigan), 4 March 1857
 
 "A Parody Parodied"
 from <em>The Evening Star</em> (Washington, D.C.), 23 June 1857
-<p>Some fair writer thus retaliates on the parodist whose production we published some days since. Both sides must be heard, and we give the lady a chance:
+
+Some fair writer thus retaliates on the parodist whose production we published some days since. Both sides must be heard, and we give the lady a chance:
 
 
 - {:.indent-3}Tell me, ye winged winds
