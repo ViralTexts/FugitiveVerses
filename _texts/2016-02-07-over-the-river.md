@@ -13,7 +13,7 @@ notes: It was set to music and printed in hymnaries, where it was attributed to 
 ---
 
 - Over the river they beckon to me—
-- {:.indent-1}Loved one's who've crossed to the further side;
+- {:.indent-1}Loved ones who've crossed to the further side;
 - The gleam of their snowy robes I see,
 - {:.indent-1}But their voices are drowned by the rushing tide.
 - There's one with ringlets of sunny gold,
