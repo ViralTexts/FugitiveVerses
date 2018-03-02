@@ -123,7 +123,7 @@ Some fair writer thus retaliates on the parodist whose production we published s
 
 
 - {:.indent-3}Tell me, ye winged winds
-- {:.indent-3}The round my pathway roar,
+- {:.indent-3}That round my pathway roar,
 - {:.indent-3}Do ye not know some spot
 - {:.indent-3}Where bachelors come no more—
 - {:.indent-3}Some lone and pleasant dell
@@ -166,7 +166,7 @@ Some fair writer thus retaliates on the parodist whose production we published s
 - {:.indent-3}Where womankind are blest—
 - {:.indent-3}Where man may never come,
 - {:.indent-3}And where the girls may rest?
-- Faith, Truth, and Hope—best boons to mortals iven,
+- Faith, Truth, and Hope—best boons to mortals given,
 - Waved their bright wings and answered "Yes, in Heaven."
 
 <br>
