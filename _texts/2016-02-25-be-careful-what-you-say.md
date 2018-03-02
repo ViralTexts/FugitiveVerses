@@ -18,7 +18,7 @@ notes:
 - {:.indent-1}Should seldom throw a stone;
 - If we have nothing else to do
 - {:.indent-1}But talk of those who sin,
-- 'Tis better we commence at hoe,
+- 'Tis better we commence at home,
 - And from <em>that</em> point begin.
 
 
